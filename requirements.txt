@@ -1,0 +1,7 @@
+dagster
+dagster-gcp
+dagit
+ipython_genutils # only required until new version of dagster includes it
+pyarrow
+requests
+subgrounds==0.0.8
